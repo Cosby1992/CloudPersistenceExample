@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112327243982",
+    "firebase_url": "https://fir-pesistence-exapmle.firebaseio.com",
+    "project_id": "fir-pesistence-exapmle",
+    "storage_bucket": "fir-pesistence-exapmle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112327243982:android:43b07f8d478ae8ba",
+        "android_client_info": {
+          "package_name": "dk.cosby.cloudpersistenceexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112327243982-s36mct3q1m2hsrh89mo4miklml1gpg62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmSEZmrVNv1EBQfGjMsZ-B-ZZL_Q_XXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112327243982-s36mct3q1m2hsrh89mo4miklml1gpg62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
