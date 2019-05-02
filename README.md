@@ -1,4 +1,4 @@
-# CloudPersistenceExample
+# Cloud Persistence Example
 
 language : java <br>
 minimum sdk level : 17
